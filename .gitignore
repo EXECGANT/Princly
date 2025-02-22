@@ -1,0 +1,22 @@
+
+db.sqlite3
+media
+miotutorial/_pycache_
+admins/_pycache_
+competitive_exam/_pycache_
+computer_courses/_pycache_
+school/_pycache_
+university/_pycache_
+admins/migrations/00*
+admins/migrations/_pycache_
+competitive_exam/migrations/00*
+competitive_exam/migrations/_pycache_
+computer_courses/migrations/00*
+computer_courses/migrations/_pycache_
+school/migrations/00*
+school/migrations/_pycache_
+university/migrations/00*
+university/migrations/_pycache_
+env/
+data.py
+online learning.drawio
