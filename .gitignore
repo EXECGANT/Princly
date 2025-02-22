@@ -7,6 +7,7 @@ competitive_exam/_pycache_
 computer_courses/_pycache_
 school/_pycache_
 university/_pycache_
+user/_pycache_
 admins/migrations/00*
 admins/migrations/_pycache_
 competitive_exam/migrations/00*
@@ -17,6 +18,8 @@ school/migrations/00*
 school/migrations/_pycache_
 university/migrations/00*
 university/migrations/_pycache_
+user/migrations/00*
+user/migrations/_pycache_
 env/
 data.py
 online learning.drawio
